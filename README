@@ -1,0 +1,6 @@
+No docs. No makefile. No nothing.
+
+The DB access is done within DXWatch.pm. For some reason, this seemed like a good idea at the time. It isn;t, and
+it'll be moving shortly.
+
+Andy <andy@m0vkg.org.uk>
